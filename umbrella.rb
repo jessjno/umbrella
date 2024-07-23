@@ -1,5 +1,6 @@
 require "http"
 require "json"
+require "ascii_charts.rb"
 
 line_width = 35
 
